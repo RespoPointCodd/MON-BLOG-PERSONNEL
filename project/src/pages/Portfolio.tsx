@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: "MySCC Application",
     category: "Application WinForm",
-    image: "https://via.placeholder.com/800x600?text=MySCC+Application",
+    image: "/image/IMG-20230503-WA0018.jpg",
     description: "Application de gestion complète développée en C# WinForm qui automatise les processus métier et améliore l'efficacité opérationnelle.",
     technologies: ["C#", "WinForms", "SQL Server", ".NET Framework"],
     year: 2023
@@ -16,7 +16,7 @@ const projects = [
     id: 2,
     title: "E-commerce Platform",
     category: "Site Web",
-    image: "https://via.placeholder.com/800x600?text=E-commerce+Platform",
+    image: "/image/IMG-20230503-WA0018.jpg",
     description: "Plateforme e-commerce complète avec système de paiement intégré, gestion des produits et interface administrateur.",
     technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
     year: 2022
