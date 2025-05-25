@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://respopointcodd.github.io/MON-BLOG-PERSONNEL/",
+  "homepage": "https://respopointcodd.github.io/MON-BLOG-PERSONNEL",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
