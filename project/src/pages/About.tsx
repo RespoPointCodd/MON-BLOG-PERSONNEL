@@ -1,5 +1,7 @@
 import React from 'react';
 import { BookOpen, Briefcase, GraduationCap, MapPin, Award, Heart } from 'lucide-react';
+import photoProfil from '../images/Polish_20231024_171349313.jpg';
+
 
 const About: React.FC = () => {
   return (
@@ -21,7 +23,7 @@ const About: React.FC = () => {
             <div className="relative" data-aos="fade-right">
               <div className="relative z-10 rounded-lg overflow-hidden shadow-xl">
                 <img 
-                  src="https://i.imgur.com/XXXXXXXXX.jpg" 
+                 src={photoProfil} 
                   alt="WILFRED DJIKIAKAM" 
                   className="w-full h-auto"
                 />
