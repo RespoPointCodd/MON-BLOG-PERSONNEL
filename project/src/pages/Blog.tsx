@@ -232,7 +232,7 @@ const Blog: React.FC = () => {
             <div className="grid grid-cols-1 md:grid-cols-2">
               <div className="h-full">
                 <img 
-                  src="https://via.placeholder.com/800x800?text=Featured+Article"
+                  src="https://via.placeholder.com/Polish_20231024_171349313.jpg"
                   alt="Les bases du développement C#" 
                   className="w-full h-full object-cover"
                 />
